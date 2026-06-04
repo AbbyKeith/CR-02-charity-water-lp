@@ -1,3 +1,6 @@
 cd /workspaces/CR-02-charity-water-lp
 git remote add personal https://github.com/AbbyKeith/CR-02-charity-water-lp.git
 git push personal main
+cd /workspaces/CR-02-charity-water-lp
+git remote set-url personal https://github.com/AbbyKeith/CR-02-charity-water-lp.git
+git push personal main
